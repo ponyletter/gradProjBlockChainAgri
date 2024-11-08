@@ -8,3 +8,13 @@ https://iup.taru.edu.cn/uia/my
 https://jwgl.taru.edu.cn/jwglxt/xtgl/login_slogin.html?time=1730123838725
 学工平台
 http://xsfw.taru.edu.cn/xsfw/sys/xggzptapp/*default/index.do?min=1#/gzzm
+
+
+
+一网通版
+https://hall.taru.edu.cn/serviceHall
+登录--系统直通--研究生管理系统--进入服务
+培养管理--开题管理--维护开题申请
+
+
+
